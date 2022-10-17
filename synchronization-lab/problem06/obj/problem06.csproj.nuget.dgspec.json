@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem05/problem05.csproj": {}
+    "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/problem06.csproj": {}
   },
   "projects": {
-    "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem05/problem05.csproj": {
+    "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/problem06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem05/problem05.csproj",
-        "projectName": "problem05",
-        "projectPath": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem05/problem05.csproj",
+        "projectUniqueName": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/problem06.csproj",
+        "projectName": "problem06",
+        "projectPath": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/problem06.csproj",
         "packagesPath": "/Users/zantaclaus/.nuget/packages/",
-        "outputPath": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem05/obj/",
+        "outputPath": "/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zantaclaus/.nuget/NuGet/NuGet.Config"

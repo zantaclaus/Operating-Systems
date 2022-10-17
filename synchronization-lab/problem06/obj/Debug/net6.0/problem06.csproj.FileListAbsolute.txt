@@ -1,0 +1,15 @@
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/bin/Debug/net6.0/problem06
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/bin/Debug/net6.0/problem06.deps.json
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/bin/Debug/net6.0/problem06.runtimeconfig.json
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/bin/Debug/net6.0/problem06.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/bin/Debug/net6.0/problem06.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.csproj.AssemblyReference.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.AssemblyInfoInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.AssemblyInfo.cs
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.csproj.CoreCompileInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/refint/problem06.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/problem06.genruntimeconfig.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/synchronization-lab/problem06/obj/Debug/net6.0/ref/problem06.dll

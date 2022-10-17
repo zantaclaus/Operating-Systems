@@ -11,8 +11,8 @@ namespace OS_Problem_02
     static int Count = 0;
 
     static object _Lock = new Object();
-
     static object _LockEnqueue = new Object();
+    static object _LockDequeue = new Object();
 
     static void EnQueue(int eq)
     {
@@ -33,14 +33,19 @@ namespace OS_Problem_02
 
     static int DeQueue()
     {
-      lock (_Lock)
+      lock (_LockDequeue)
       {
-        int x = 0;
-        x = TSBuffer[Front];
-        Front++;
-        Front %= 10;
-        Count -= 1;
-        return x;
+        while (Count == 0) { }
+
+        lock (_Lock)
+        {
+          int x = 0;
+          x = TSBuffer[Front];
+          Front++;
+          Front %= 10;
+          Count -= 1;
+          return x;
+        }
       }
     }
 
@@ -73,8 +78,6 @@ namespace OS_Problem_02
 
       for (i = 0; i < 50; i++)
       {
-        while (Count == 0) { }
-
         j = DeQueue();
         Console.WriteLine("j={0}, thread:{1}", j, t);
         Thread.Sleep(100);
@@ -86,19 +89,20 @@ namespace OS_Problem_02
       Thread t1 = new Thread(th01);
       Thread t11 = new Thread(th011);
       Thread t2 = new Thread(th02);
-      // Thread t21 = new Thread(th02);
-      // Thread t22 = new Thread(th02);
+      Thread t21 = new Thread(th02);
+      Thread t22 = new Thread(th02);
 
       t1.Start();
       t11.Start();
       t2.Start(1);
-      // t21.Start(2);
-      // t22.Start(3);
+      t21.Start(2);
+      t22.Start(3);
     }
   }
 }
 
-// เพ่ิม _LockEnqueue เพื่อให้แต่ละ​ Thread เรียกใช้ Enqueue ทีละ Thread
 
+// เพิ่ม Lock Dequeue เพ่ิมไม่ให้เกิด กรณี
+// มี Queue อยู่ 1 ตัวเเล้ว DequeueA กับ DequeueB รอจะ Dequeue พร้อมกัน
+// เมื่อ Dequeue A ทำเสร็จ จะส่งผลให้ Dequeue B ผิดพลาด
 
-// ทำเสร็จแล้ว ปัญหาต่อไปคือ ต้องการเพิ่ม Thread สำหรับ Dequeue
