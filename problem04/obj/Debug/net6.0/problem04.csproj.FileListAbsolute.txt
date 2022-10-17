@@ -1,0 +1,15 @@
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/bin/Debug/net6.0/problem04
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/bin/Debug/net6.0/problem04.deps.json
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/bin/Debug/net6.0/problem04.runtimeconfig.json
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/bin/Debug/net6.0/problem04.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/bin/Debug/net6.0/problem04.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.csproj.AssemblyReference.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.AssemblyInfoInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.AssemblyInfo.cs
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.csproj.CoreCompileInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/refint/problem04.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/problem04.genruntimeconfig.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/problem04/obj/Debug/net6.0/ref/problem04.dll

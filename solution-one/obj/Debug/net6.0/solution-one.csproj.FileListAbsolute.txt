@@ -1,0 +1,15 @@
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/bin/Debug/net6.0/solution-one
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/bin/Debug/net6.0/solution-one.deps.json
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/bin/Debug/net6.0/solution-one.runtimeconfig.json
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/bin/Debug/net6.0/solution-one.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/bin/Debug/net6.0/solution-one.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.csproj.AssemblyReference.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.AssemblyInfoInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.AssemblyInfo.cs
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.csproj.CoreCompileInputs.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/refint/solution-one.dll
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.pdb
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/solution-one.genruntimeconfig.cache
+/Users/zantaclaus/Desktop/os-acitvity-2/solution-one/obj/Debug/net6.0/ref/solution-one.dll
